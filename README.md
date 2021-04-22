@@ -34,3 +34,15 @@
         }
       }
  
+# EKRAN GÖRÜNTÜLERİ
+<table>
+ <tr>
+    <td><img src="Uygulama Goruntuleri/1.PNG" ></td>
+    <td><img src="Uygulama Goruntuleri/2.PNG" ></td>
+    <td><img src="Uygulama Goruntuleri/3.PNG" ></td>
+  </tr>
+  <tr>
+    <td><img src="Uygulama Goruntuleri/4.PNG" ></td>
+    <td><img src="Uygulama Goruntuleri/5.PNG" ></td>
+  </tr>
+ </table>
